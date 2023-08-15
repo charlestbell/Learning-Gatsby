@@ -1,5 +1,14 @@
 
 
+<<<<<<< HEAD
 html {
   background-color: #ececff;
+=======
+@import "~bulma/bulma.sass";
+
+
+
+a[disabled] {
+  pointer-events: none;
+>>>>>>> 119c30a496581c760b5bd80dc46b24b9cd5dc582
 }

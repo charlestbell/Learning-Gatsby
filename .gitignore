@@ -1,3 +1,10 @@
 node_modules/
 .cache/
 public
+<<<<<<< HEAD
+=======
+
+
+.env.development
+.env.production
+>>>>>>> 119c30a496581c760b5bd80dc46b24b9cd5dc582
